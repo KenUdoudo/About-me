@@ -1,0 +1,149 @@
+.container{
+  display: flex;
+    position: relative;
+    width: 400px;
+    height: 823px;
+    margin: auto;
+}
+h1{
+  position: absolute;
+  left: 130px;
+  top: 50px;
+  color: #3083FF;
+  font-family: Lobster;
+}
+#First-Name{
+  position: absolute;
+    width: 315px;
+    height: 48px;
+    left: 42.5px;
+    top: 180px;
+    background: #f2f5fa;
+    border-radius: 3px;
+    font-size: 16px;
+    color: #a6acc3;
+    border-width: 0;
+    padding-left: 16px;
+}
+#Last-Name{
+  position: absolute;
+    width: 315px;
+    height: 48px;
+    left: 42.5px;
+    top: 244px;
+    background: #f2f5fa;
+    border-radius: 3px;
+    font-size: 16px;
+    color: #a6acc3;
+    border-width: 0;
+    padding-left: 16px;
+}
+#Phone{
+  position: absolute;
+    margin-top: 64px;
+    width: 315px;
+    height: 48px;
+    left: 42.5px;
+    top: 244px;
+    background: #f2f5fa;
+    border-radius: 3px;
+    font-size: 16px;
+    color: #a6acc3;
+    border-width: 0;
+    padding-left: 16px;
+}
+#gender{
+   position: absolute;
+    margin-top: 64px;
+    width: 315px;
+    height: 48px;
+  left: 50px;
+  top: 308px;
+  background: #f2f5fa;
+    border-radius: 3px;
+    font-size: 16px;
+    color: #a6acc3;
+    border-width: 0;
+    padding-left: 16px;
+}
+#Country{
+  position: absolute;
+    margin-top: 64px;
+    width: 315px;
+    height: 48px;
+  left: 42.5px;
+  top: 372px;
+  background: #f2f5fa;
+    border-radius: 3px;
+    font-size: 16px;
+    color: #a6acc3;
+    border-width: 0;
+    padding-left: 16px;
+}
+#State{
+  position: absolute;
+    margin-top: 64px;
+    width: 315px;
+    height: 48px;
+  left: 42.5px;
+  top: 436px;
+  background: #f2f5fa;
+    border-radius: 3px;
+    font-size: 16px;
+    color: #a6acc3;
+    border-width: 0;
+    padding-left: 16px;
+}
+#Email{
+  position: absolute;
+    margin-top: 64px;
+    width: 315px;
+    height: 48px;
+  left: 42.5px;
+  top: 500px;
+  background: #f2f5fa;
+    border-radius: 3px;
+    font-size: 16px;
+    color: #a6acc3;
+    border-width: 0;
+    padding-left: 16px;
+}
+#password{
+  position: absolute;
+    margin-top: 64px;
+    width: 315px;
+    height: 48px;
+  left: 42.5px;
+  top: 564px;
+  background: #f2f5fa;
+    border-radius: 3px;
+    font-size: 16px;
+    color: #a6acc3;
+    border-width: 0;
+    padding-left: 16px;
+}
+#Password-confirm{
+  position: absolute;
+    margin-top: 64px;
+    width: 315px;
+    height: 48px;
+  left: 42.5px;
+  top: 628px;
+  background: #f2f5fa;
+    border-radius: 3px;
+    font-size: 16px;
+    color: #a6acc3;
+    border-width: 0;
+    padding-left: 16px;
+}
+.Sign-up{
+  position: absolute;
+    width: 315px;
+    height: 48px;
+    left: 50px;
+    top: 750px;
+    background: linear-gradient(90deg, #59a1ff 19.89%, #3d67f2 100%);
+    border-radius: 3px;
+    color: #ffffff;
+    border-width: 0;
+}
